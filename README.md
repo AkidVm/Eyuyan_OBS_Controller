@@ -18,6 +18,10 @@
 2. <a href="https://bbs.ijingyi.com/home.php?mod=space&uid=408454" target="_blank">zyCrul</a>
 3. <a href="https://bbs.ijingyi.com/forum.php?mod=viewthread&tid=14518970&highlight=cjson" target="_blank">【洫蜘蛛】超轻量级的cJSON易模块更新增加内存DLL版本</a>
 
+## 项目分发
+1. 本文仅用于开源协议研究与学习，所有示例代码遵守原协议条款发布。
+2. 作者不以任何形式通过网盘、可执行文件或非源码渠道分发相关内容。
+
 ## 使用说明
 1. 本项目是为了学习研究用，不得进行任何形式的转发，发布，传播。
 
