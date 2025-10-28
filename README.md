@@ -2,14 +2,16 @@
 使用易语言开发的OBS控制器
 
 ## 更新计划
+- [x] Unicode支持
 - [x] 支持多开OBS
 - [x] 解析部分OP5回调事件
+- [x] Exui技术有限不会对界面做任何美化
 - [ ] 图像变换旋转位置
 - [ ] 效果滤镜参数修改
 - [ ] 滤音器参数修改
 - [ ] 部分源控制
 - [ ] 未知计划{许愿}
-- [x] Exui技术有限不会对界面做任何美化
+
 ## 引用框架
 1. <a href="https://www.exuik.com/" target="_blank">Exui界面库</a>
 2. <a href="https://bbs.ijingyi.com/home.php?mod=space&uid=408454" target="_blank">zyCrul</a>
